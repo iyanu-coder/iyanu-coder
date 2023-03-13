@@ -1,0 +1,30 @@
+.headercolor{
+  /* background-color: rgb(16,14,23); */
+  background-color: rgb(214,207,207);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: right;
+  /* height: 770px; */
+  /* background: fixed; */
+  width: 100%;
+  margin-top: -80px;
+}
+
+
+#container{
+  width: 100% !important;
+}
+
+
+#container h4{
+    font-size: 23px;
+    font-weight: bold;
+    color: rgb(16,14,23);
+    /* color: rgb(16,14,23); */
+  }
+
+  #container p{
+    color: rgb(16,14,23);
+    font-size: 14px;
+
+  }
